@@ -1,7 +1,6 @@
 #!/bin/bash
 
 source ./common.sh
-
 check_root
 
 echo "please enter DB password:"
